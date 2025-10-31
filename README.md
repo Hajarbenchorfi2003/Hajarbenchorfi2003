@@ -22,7 +22,7 @@ I’m driven by curiosity and creativity. I love designing user-focused interfac
 
 ### 🌐 Social Links
 
-🔗 [LinkedIn]([www.linkedin.com/in/hajar-benchorfi-72183a294](https://www.linkedin.com/in/hajar-benchorfi-72183a294/)) 
+
 🔗 [LinkedIn](https://www.linkedin.com/in/hajar-benchorfi-72183a294/)
 📧 Email : benchorfihajar@gmail.com
 🔗 [Check my portfolio here](https://portefeuille-one.vercel.app/)
