@@ -46,5 +46,6 @@ I’m driven by curiosity and creativity. I love designing user-focused interfac
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="SCSS" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="50" height="50"/>
+<img src="https://camo.githubusercontent.com/d1865eb67e9a7175cab0fd3b47508da75dcee4b0460f9043bde1d5af54e0530b/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6c61726176656c2f6c61726176656c2d6f726967696e616c2e737667" alt="Laravel" width="50" height="50"/>
+
 </p>
